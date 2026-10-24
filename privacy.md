@@ -20,4 +20,4 @@ Data YouTube hanya dipakai untuk fungsi unggah dan analitik yang diminta pemilik
 Pemilik dapat mencabut akses kapan saja di https://myaccount.google.com/permissions
 
 6. Kontak
-Pertanyaan: [isi alamat email Anda]
+Pertanyaan: [jarv0574@gmail.com]
